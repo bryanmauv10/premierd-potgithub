@@ -1,5 +1,5 @@
 @echo off
 echo Ceci est mon premier script sous git
-echo bryan boss
+echo bryan le boss
 netstat -ano
 pause
